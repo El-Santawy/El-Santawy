@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
+<img src="https://raw.githubusercontent.com/El-Santawy/El-Santawy/main/dev-working_rounded.gif" width="40%" />
+<br>
 
 ### 👋 Hi, I'm Abdelrahman Nasr El-Deen
 🎯 Junior Data Analyst | 📊 Excel • Power BI • SQL • Python  
@@ -102,7 +103,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20%"/>
+<img src="https://raw.githubusercontent.com/El-Santawy/El-Santawy/main/hyperkitty.gif" width="20%" />
 <br>
   
 ⭐ "Data speaks louder when visualized clearly." ⭐
