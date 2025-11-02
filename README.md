@@ -73,11 +73,12 @@
 
 ---
 ### 📫 Connect With Me
-<div align="center">
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El--Santawy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-el-santawy-a89096271/)
-[![GitHub](https://img.shields.io/badge/GitHub-El--Santawy-black?style=flat&logo=github)](https://github.com/El-Santawy)
-[![Gmail](https://img.shields.io/badge/Gmail-abdoelsantawy7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdoelsantawy7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20El--Santawy-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-el-santawy-a89096271/) <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-abdoelsantawy7%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdoelsantawy7@gmail.com) <br>
+
 
 </div>
 
